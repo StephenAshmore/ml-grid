@@ -17,3 +17,5 @@ Deploy to AWS:
 Worker:
     Need to be able to format the python code such that it is properly formatted with tabs and newlines. Is there a npm package for this?
     Might be able to use pythonshell package.
+
+Will need a script that converts new lines into _n_ automatically and sends the request off to the server.
